@@ -1,0 +1,4 @@
+interface:
+  display_name: "Are.na Curation Common"
+  short_description: "Shared Are.na curation rules and manifest shape"
+  default_prompt: "Use $arena-curation-common to plan Are.na channel curation with the shared manifest format."

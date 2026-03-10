@@ -1,0 +1,4 @@
+interface:
+  display_name: "Are.na API Operator"
+  short_description: "Deterministic Are.na API and upload actions"
+  default_prompt: "Use $arena-api-operator to inspect or mutate Are.na channels and blocks."

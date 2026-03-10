@@ -1,0 +1,4 @@
+interface:
+  display_name: "Are.na Create Channel"
+  short_description: "Create a themed Are.na channel with mixed content"
+  default_prompt: "Use $arena-create-channel to create and populate a themed Are.na channel."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Are.na Extend Channel"
+  short_description: "Infer a channel motif and add complementary content"
+  default_prompt: "Use $arena-extend-channel to extend an existing Are.na channel with complementary content."

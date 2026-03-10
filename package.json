@@ -1,0 +1,11 @@
+{
+  "name": "are-na-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cli": "bun run .agents/skills/arena-api-operator/scripts/arena.ts",
+    "test": "bun test",
+    "test:unit": "bun test tests/unit",
+    "test:integration": "bun test tests/integration"
+  }
+}
